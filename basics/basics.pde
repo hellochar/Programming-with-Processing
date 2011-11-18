@@ -17,3 +17,4 @@ void mousePressed() {}
 void mouseDragged() {}
 void mouseReleased() {}
 void mouseClicked() {}
+void mouseMoved() {}
